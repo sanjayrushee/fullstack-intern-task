@@ -1,7 +1,12 @@
-# [Your Project Title]
+# FULL STACK WEB DEVELOPER INTERN - TECHNICAL TASK
 
-[Provide a 1-2 paragraph description of your project. What does it do? What problem does it solve? Who is it for?]
 
+Build a small full-stack web app that allows users to:
+1. Register & Login
+2. View a list of available templates
+3. Mark templates as "Favorite"
+4. See their favorited templates in a "My Favorites" section
+   
 ## 🛠️ Tech Stack
 
 Here is the full stack of technologies used in this project:
@@ -13,6 +18,17 @@ Here is the full stack of technologies used in this project:
 * **Version Control:** Git & GitHub
 
 ---
+
+#Template Favorites App
+
+This is a full-stack web application built for a technical task. It allows users to register, log in, browse a list of templates, and manage their own "favorites" list.
+
+🌍 Live Demo
+Frontend (Netlify): [https://your-app-name.netlify.app/](https://sanjay-full-stack-intern.netlify.app/templates)
+
+Backend (Render): [https://your-api-name.onrender.com/](https://fullstack-intern-task-zat0.onrender.com)
+
+Note: The backend link is the live API. Accessing it directly in a browser may just show a "Cannot GET /" message, which is normal. The frontend application is configured to make requests to this URL.
 
 ## 🚀 Getting Started
 
@@ -76,7 +92,7 @@ You must have the following software installed on your computer:
 
 ## 📬 Contact
 
-* **Name:** [Your Name]
-* **Email:** [your.email@example.com]
-* **GitHub:** [https://github.com/your-username]
-* **LinkedIn:** [https://linkedin.com/in/your-profile]
+* **Name:** [Sanjay M]
+* **Email:** [sivasankar.ccc@gmail.com]
+* **GitHub:** [https://github.com/sanjayrushee]
+* **LinkedIn:** [https://linkedin.com/in/sanjay-rushee]
