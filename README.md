@@ -54,7 +54,7 @@ You must have the following software installed on your computer:
 
     * Navigate to the backend directory:
         ```bash
-        cd backend
+        cd server
         ```
     * Install all required npm packages:
         ```bash
@@ -76,7 +76,7 @@ You must have the following software installed on your computer:
 
     * Open a **new terminal** and navigate to the frontend directory:
         ```bash
-        cd frontend
+        cd client
         ```
     * Install all required npm packages:
         ```bash
